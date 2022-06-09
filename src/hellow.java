@@ -9,6 +9,7 @@
             String user = "root";
             String pwd = "jjsc172412";
             System.out.println("ssss");
+            System.out.println("我是hot-fix");
             System.out.println("ssss");
             return "jjjj";
         }
